@@ -19,19 +19,20 @@
       "image": "https://raw.githubusercontent.com/MiliForsaken/Forsaken/main/purple-black-carbine.png",
       "url": "https://link-hub.net/1408305/s5Dbw0qG23lC",
       "open": true
-    }
+    },
     {
-      "id": "300MemLucent",
-      "name": "Lucent 300 Members",
+      "id": "300-member-fixed",
+      "name": "300 Member Fixed Version",
       "type": "Ped pack",
       "category": "Citizens",
-      "own": true,
-      "desc": "300 Members citizen from Lucent mods",
+      "own": false,
+      "new": true,
+      "date": "2026-10-23",
+      "desc": "Fixed version of the 300 Member citizens pack. Credit: Lucent Mods.",
       "password": "https://discord.gg/lucentmods",
-      "image": "https://raw.githubusercontent.com/TVOJ-NALOG/forsaken-mods/main/citizens.png",
-      "video": "https://discord.gg/lucentmods",
-      "url": "https://link-hub.net/...",
+      "preview": "https://www.youtube.com/watch?v=gijVY_wDw2Y",
+      "url": "https://direct-link.net/10160245/l4nsrIKQaiPb",
       "open": true
-}
+    }
   ]
 }
