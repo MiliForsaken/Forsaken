@@ -20,5 +20,18 @@
       "url": "https://link-hub.net/1408305/s5Dbw0qG23lC",
       "open": true
     }
+    {
+      "id": "300MemLucent",
+      "name": "Lucent 300 Members",
+      "type": "Ped pack",
+      "category": "Citizens",
+      "own": true,
+      "desc": "300 Members citizen from Lucent mods",
+      "password": "https://discord.gg/lucentmods",
+      "image": "https://raw.githubusercontent.com/TVOJ-NALOG/forsaken-mods/main/citizens.png",
+      "video": "https://discord.gg/lucentmods",
+      "url": "https://link-hub.net/...",
+      "open": true
+}
   ]
 }
