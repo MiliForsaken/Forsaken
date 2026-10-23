@@ -1,0 +1,35 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "url": "",
+    "notes": ""
+  },
+  "mods": [
+    {
+      "id": "example-glock",
+      "name": "Example Glock Skin",
+      "type": "Weapon skin",
+      "version": "1.0",
+      "date": "2026-10-23",
+      "new": true,
+      "category": "Guns",
+      "sub": "glock",
+      "own": true,
+      "desc": "Replace this with your own description.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": "example-jacket",
+      "name": "Example Jacket",
+      "type": "Outfit",
+      "version": "1.0",
+      "date": "2026-10-22",
+      "category": "Clothing",
+      "own": true,
+      "desc": "Replace this with your own description.",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
