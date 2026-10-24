@@ -25,7 +25,7 @@
       "name": "300 Member Fixed Version",
       "type": "Ped pack",
       "category": "Citizens",
-      "own": false,
+      "own": true,
       "new": true,
       "date": "2026-10-23",
       "desc": "Fixed version of the 300 Member citizens pack. Credit: Lucent Mods.",
